@@ -6,7 +6,7 @@ import 'package:html/parser.dart';
 // EXTERNAL PACKAGES END
 
 class uberEats {
-
+  // DAN CANT CODE
   final dealsURL = 'https://www.ubereats.com/deals';
 
   void getData() async {
